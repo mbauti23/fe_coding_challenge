@@ -4,4 +4,4 @@ A showcase of my experience in Flutter and UX to produce a multiplatform applica
 
 ## Getting Started
 
-Read app_instructions.txt 
+Read app_instructions.md
