@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866550832161",
+    "project_id": "fe-coding-challenge-83181",
+    "storage_bucket": "fe-coding-challenge-83181.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866550832161:android:89976bd6d01ef552de9760",
+        "android_client_info": {
+          "package_name": "com.example.fe_coding_challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866550832161-u0nijj4pesrc5sf6064slie3euag683f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBwn9inhRcJeKEcCFCUwuKKdgTha7kSeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866550832161-u0nijj4pesrc5sf6064slie3euag683f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
